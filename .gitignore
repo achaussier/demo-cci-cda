@@ -1,3 +1,9 @@
+# Logs
+*.Logs
+
 # Vim
 *.swo
 *.swp
+
+# App config
+.env
